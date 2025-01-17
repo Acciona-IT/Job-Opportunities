@@ -7,9 +7,6 @@ Welcome to our job repository! Here, you'll find the latest openings for develop
 |----------------|--------------------|------------------------------------------|
 | Sr. Node Js Developer   | Remote (Argentina) | Node.js, JavaScript, TypeScript, AWS |
 
-## How to Apply
-Send your CV to [melanie.zaia@acciona-it.com](mailto:melanie.zaia@acciona-it.com)
-
 
 | Position       | Location           | Skills Required                          |
 |----------------|--------------------|------------------------------------------|
@@ -17,3 +14,24 @@ Send your CV to [melanie.zaia@acciona-it.com](mailto:melanie.zaia@acciona-it.com
 
 ## How to Apply
 Send your CV to [melanie.zaia@acciona-it.com](mailto:melanie.zaia@acciona-it.com)
+
+
+| Position       | Location           | Skills Required                          |
+|----------------|--------------------|------------------------------------------|
+| Sr. Front-end Developer   | Hybrid - 3 days on-site (Boedo, Argentina) | Angular 12, TypeScript y Bootstrap|
+
+## How to Apply
+Send your CV to [martina.weintraub@acciona-it.com](mailto:martina.weintraub@acciona-it.com)
+
+
+| Position       | Location           | Skills Required                          |
+|----------------|--------------------|------------------------------------------|
+| Ssr. Front-end Developer   | Remote (Argentina, Uruguay, Chile)|Vanilla JavaScript, Sass, NodeJS, Vue, React, Express|
+
+
+| Position       | Location           | Skills Required                          |
+|----------------|--------------------|------------------------------------------|
+| Ssr. Back-end Developer   | Remote (Argentina, Uruguay, Chile)|Golang, AWS, CI/CD, API REST|
+
+## How to Apply
+Send your CV to [agustina.bermejo@acciona-it.com](mailto:agustina.bermejo@acciona-it.com)
