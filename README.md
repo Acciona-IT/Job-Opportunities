@@ -42,4 +42,4 @@ Send your CV to [agustina.bermejo@acciona-it.com](mailto:agustina.bermejo@accion
 | .NET Developer   | Remote (Argentina)| .NET Framework, MVC, Web Api, Asp.net WebForms, Vue JS|
 
 ## How to Apply
-Send your CV to [agustina.gonzalez@acciona-it.com](mailto: agustina.gonzalez@acciona-it.com)
+Send your CV to [agustina.gonzalez@acciona-it.com](mailto:agustina.gonzalez@acciona-it.com)
