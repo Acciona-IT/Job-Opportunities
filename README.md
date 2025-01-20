@@ -35,3 +35,11 @@ Send your CV to [martina.weintraub@acciona-it.com](mailto:martina.weintraub@acci
 
 ## How to Apply
 Send your CV to [agustina.bermejo@acciona-it.com](mailto:agustina.bermejo@acciona-it.com)
+
+
+| Position       | Location           | Skills Required                          |
+|----------------|--------------------|------------------------------------------|
+| .NET Developer   | Remote (Argentina)| .NET Framework, MVC, Web Api, Asp.net WebForms, Vue JS|
+
+## How to Apply
+Send your CV to [agustina.gonzalez@acciona-it.com](mailto: agustina.gonzalez@acciona-it.com)
