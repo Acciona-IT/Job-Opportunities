@@ -28,9 +28,6 @@ Send your CV to [martina.weintraub@acciona-it.com](mailto:martina.weintraub@acci
 
 
 
-| Position       | Location           | Skills Required                          |
-|----------------|--------------------|------------------------------------------|
-| Ssr. Front-end Developer   | Remote (Argentina, Uruguay, Chile)|Vanilla JavaScript, Sass, NodeJS, Vue, React, Express|
 
 
 | Position       | Location           | Skills Required                          |
