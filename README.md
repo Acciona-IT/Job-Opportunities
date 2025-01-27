@@ -21,8 +21,7 @@ Welcome to our job repository! Here, you'll find the latest openings for develop
 
 | Position       | Location           | Skills Required                          |
 |----------------|--------------------|------------------------------------------|
-|SQL Developer   | Hybrid - (Microcentro, Argentina) |
-Advanced SQL (SELECT, JOIN, subqueries, stored procedures, triggers, query optimization, etc.)|
+|SQL Developer   | Hybrid - (Microcentro, Argentina) |Advanced SQL (SELECT, JOIN, subqueries, stored procedures, triggers, query optimization, etc.)|
 
 
 ## How to Apply
