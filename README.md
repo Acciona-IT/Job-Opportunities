@@ -12,6 +12,19 @@ Welcome to our job repository! Here, you'll find the latest openings for develop
 |----------------|--------------------|------------------------------------------|
 | Sr. Java Developer   | Remote (Argentina) | Java 8 - 11, Spring Framework, Spring Boot, Spring Batch, Microservices, EDA, AWS|
 
+
+| Position       | Location           | Skills Required                          |
+|----------------|--------------------|------------------------------------------|
+| Back-end Developer   | Hybrid - 3 days on-site (Argentina) |Java 11 or higher, Spring - Spring Boot - Hibernate|
+
+
+
+| Position       | Location           | Skills Required                          |
+|----------------|--------------------|------------------------------------------|
+|SQL Developer   | Hybrid - (Microcentro, Argentina) |
+Advanced SQL (SELECT, JOIN, subqueries, stored procedures, triggers, query optimization, etc.)|
+
+
 ## How to Apply
 Send your CV to [melanie.zaia@acciona-it.com](mailto:melanie.zaia@acciona-it.com)
 
